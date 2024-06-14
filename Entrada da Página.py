@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import ipeadatapy as ip
 
 st.set_page_config(
+  
 page_title="Lista de Exercícios 4",
 page_icon="🍰", 
 )
