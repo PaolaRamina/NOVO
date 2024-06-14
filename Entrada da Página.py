@@ -16,5 +16,4 @@ st.header("Bem-vindo à nossa nova criação!")
 
 st.subheader("Viramos garotas de programa! 😉")
 
-st.write("Ana")
-st.write("Paola")
+st.write("Ana E Paola")
